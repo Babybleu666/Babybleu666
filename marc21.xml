@@ -1,0 +1,318 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:mx="http://www.loc.gov/MARC21/slim"
+           xmlns:srw="http://www.loc.gov/zing/srw/">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf5671285</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">200714n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/5671285</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2="1" tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(LIH)LNB:_c____e_;=B_i_</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(CAOONL)ncf12108275</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(RERO)A003379900</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(NTA)237370999</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(NII)DA11103402</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(NDL)00807835</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(ISNI)0000000117397516</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(J9U)987007432650305171</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(LC)n  95803740</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(DNB)173117147</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(SUDOC)166965588</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(LNB)LNC10-000071197</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy</mx:subfield>
+      <mx:subfield code="0">(BIBSYS)90936912</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Holloway, Immy.</mx:subfield>
+      <mx:subfield code="0">(NUKAT)n 2005113267</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="375" ind1=" " ind2=" ">
+      <mx:subfield code="a">unknown</mx:subfield>
+      <mx:subfield code="2">0</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="400">
+      <mx:subfield code="a">Holloway, Irmgard Mathilde</mx:subfield>
+      <mx:subfield code="2">J9U</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">ホロウェイ</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="400">
+      <mx:subfield code="a">ホロウェイ</mx:subfield>
+      <mx:subfield code="2">NDL</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/5671285</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="2">
+      <mx:subfield code="u">http://viaf.org/viaf/data</mx:subfield>
+      <mx:subfield code="z">Dataset description</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Daymon, Christine 1952-</mx:subfield>
+      <mx:subfield code="9">16</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>NUKAT|n 2005113267<mx:subfield code="2">RERO</mx:subfield>RERO|A003379900<mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">LC</mx:subfield>LC|n  95803740<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LNB</mx:subfield>LNB|LNC10-000071197<mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Wheeler, Stephanie</mx:subfield>
+      <mx:subfield code="9">13</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>RERO|A003379900<mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">NDL</mx:subfield>NDL|00807835<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Brown, Lorraine 1961-</mx:subfield>
+      <mx:subfield code="9">6</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Jones, Ian 1970-</mx:subfield>
+      <mx:subfield code="9">5</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">野口, 美和子, 1938-</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">NDL</mx:subfield>NDL|00807835</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Noguchi, Miwako 1938-</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">NDL</mx:subfield>NDL|00807835</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Freshwater, Dawn</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">今村, 美葉</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">NDL</mx:subfield>NDL|00807835</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Imamura, Miyo</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">NDL</mx:subfield>NDL|00807835</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Galvin, Kathleen</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="941">
+      <mx:subfield code="a">auteur</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="941">
+      <mx:subfield code="a">autor</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>NUKAT|n 2005113267</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="944">
+      <mx:subfield code="a">am</mx:subfield>
+      <mx:subfield code="9">30</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>NUKAT|n 2005113267<mx:subfield code="2">RERO</mx:subfield>RERO|A003379900<mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">NDL</mx:subfield>NDL|00807835<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LNB</mx:subfield>LNB|LNC10-000071197<mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="944">
+      <mx:subfield code="a">dm</mx:subfield>
+      <mx:subfield code="9">6</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="944">
+      <mx:subfield code="a">mm</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9780415222747</mx:subfield>
+      <mx:subfield code="9">6</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>NUKAT|n 2005113267<mx:subfield code="2">LNB</mx:subfield>LNB|LNC10-000071197<mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9780415222730</mx:subfield>
+      <mx:subfield code="9">6</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>NUKAT|n 2005113267<mx:subfield code="2">LNB</mx:subfield>LNB|LNC10-000071197<mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9780415471183</mx:subfield>
+      <mx:subfield code="9">5</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>RERO|A003379900<mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">NUKAT</mx:subfield>NUKAT|n 2005113267<mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9780415471176</mx:subfield>
+      <mx:subfield code="9">5</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>RERO|A003379900<mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">NUKAT</mx:subfield>NUKAT|n 2005113267<mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9781118874493</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9780632041732</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">RERO</mx:subfield>RERO|A003379900<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9780632037650</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">RERO</mx:subfield>RERO|A003379900<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9781405161213</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9780632052844</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">NTA</mx:subfield>NTA|237370999</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9780335212941</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">NTA</mx:subfield>NTA|237370999</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9784260330602</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">NDL</mx:subfield>NDL|00807835</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9783861266303</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>RERO|A003379900</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9781611326765</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9781446271711</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9781405161220</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Basic concepts for qualitative research</mx:subfield>
+      <mx:subfield code="0">(VIAF)3078159478256327990003</mx:subfield>
+      <mx:subfield code="2">CAOONL</mx:subfield>CAOONL|ncf11488026</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Essentials of a qualitative doctorate</mx:subfield>
+      <mx:subfield code="2">NII</mx:subfield>NII|DA11103402<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Getting a PhD in health and social care</mx:subfield>
+      <mx:subfield code="2">NII</mx:subfield>NII|DA11103402</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">n95803740</mx:subfield>
+      <mx:subfield code="2">NDL</mx:subfield>NDL|00807835</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Nāsu no tameno shitsuteki kenkyū nyūmon : Kenkyū hōhō kara ronbun sakusei made</mx:subfield>
+      <mx:subfield code="2">NDL</mx:subfield>NDL|00807835</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Qualitative Pflegeforschung : Grundlagen qualitativer Ansätze in der Pflege</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>RERO|A003379900</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Qualitative research for nurses</mx:subfield>
+      <mx:subfield code="0">(VIAF)6563157162106178980008</mx:subfield>
+      <mx:subfield code="2">XR</mx:subfield>XR|VIAFWORK1120256366</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Qualitative research in nursing</mx:subfield>
+      <mx:subfield code="0">(VIAF)4827159764110308170006</mx:subfield>
+      <mx:subfield code="2">NDL</mx:subfield>NDL|00807835<mx:subfield code="2">NUKAT</mx:subfield>NUKAT|n 2005113267<mx:subfield code="2">RERO</mx:subfield>RERO|A003379900<mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">XR</mx:subfield>XR|VIAFWORK1170338656<mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LNB</mx:subfield>LNB|LNC10-000071197<mx:subfield code="2">CAOONL</mx:subfield>CAOONL|ncf12108275<mx:subfield code="2">NII</mx:subfield>NII|DA11103402<mx:subfield code="2">LC</mx:subfield>LC|n  95803740<mx:subfield code="2">J9U</mx:subfield>J9U|987007432650305171</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">ナースのための質的研究入門 : 研究方法から論文作成まで</mx:subfield>
+      <mx:subfield code="2">NDL</mx:subfield>NDL|00807835<mx:subfield code="2">NII</mx:subfield>NII|DA11103402</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Blackwell</mx:subfield>
+      <mx:subfield code="9">18</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>RERO|A003379900<mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">LC</mx:subfield>LC|n  95803740<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Routledge</mx:subfield>
+      <mx:subfield code="9">15</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>RERO|A003379900<mx:subfield code="2">NUKAT</mx:subfield>NUKAT|n 2005113267<mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588<mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">LC</mx:subfield>LC|n  95803740<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LNB</mx:subfield>LNB|LNC10-000071197</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">SAGE</mx:subfield>
+      <mx:subfield code="9">4</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">医学書院</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">NDL</mx:subfield>NDL|00807835</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Open University Press</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">NTA</mx:subfield>NTA|237370999</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">John Wiley &amp; Sons Inc.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Left Coast Press</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Igaku Shoin</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>ISNI|0000000117397516<mx:subfield code="2">NDL</mx:subfield>NDL|00807835</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Ullstein Medical</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>RERO|A003379900</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Routledge Taylor &amp; Francis Group</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>NUKAT|n 2005113267</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">GB</mx:subfield>
+      <mx:subfield code="9">23</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>NUKAT|n 2005113267<mx:subfield code="2">RERO</mx:subfield>RERO|A003379900<mx:subfield code="2">NTA</mx:subfield>NTA|237370999<mx:subfield code="2">LC</mx:subfield>LC|n  95803740<mx:subfield code="2">BIBSYS</mx:subfield>BIBSYS|90936912<mx:subfield code="2">LNB</mx:subfield>LNB|LNC10-000071197<mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">US</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>SUDOC|166965588<mx:subfield code="2">LC</mx:subfield>LC|n  95803740</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">JP</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">NDL</mx:subfield>NDL|00807835</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">DE</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>RERO|A003379900</mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">199.</mx:subfield>
+      <mx:subfield code="9">16</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">200.</mx:subfield>
+      <mx:subfield code="9">29</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">201.</mx:subfield>
+      <mx:subfield code="9">20</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="997" ind1=" " ind2=" ">
+      <mx:subfield code="a">0</mx:subfield>
+      <mx:subfield code="b">0</mx:subfield>
+      <mx:subfield code="c">lived</mx:subfield>
+   </mx:datafield>
+</mx:record>
